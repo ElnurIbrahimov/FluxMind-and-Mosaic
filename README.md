@@ -123,6 +123,10 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 **Elnur Ibrahimov** - Independent Researcher, Azerbaijan
 
+> **Status:** Active research. FluxMind validated.
+> Seeking collaborators with GPU access.
+> Contact: elnuribrahimov83@gmail.com
+
 ---
 
 *FluxMind - Teaching machines how to learn*
